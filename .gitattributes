@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+git branch -m main root
+git fetch origin
+git branch -u origin/root root
+git remote set-head origin -a
